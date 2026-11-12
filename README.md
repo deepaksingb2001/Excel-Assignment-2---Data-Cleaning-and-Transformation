@@ -1,5 +1,7 @@
 # Excel-Assignment-2---Data-Cleaning-and-Transformation
+
 The assignment includes the data cleaning practices using trim(), clean(), left(), right(), if(), isblank(), average(), concatenation(), text to columns, conditional formatting, find &amp; replace, number formatting etc.
+
 1.a. Replaced  missing values with Average Price using IF(), ISBLANK() AVERAGE() functions and created column G.
 1.b. Replaced missing category with Unknown text using IF(), ISBLANK() function and created column H.
 
