@@ -17,5 +17,3 @@ The assignment includes the data cleaning practices using trim(), clean(), left(
 
 6.a. Used Conditional Formatting-> Data Bars-> Data Blue Bars
 6.b. Used Conditional Formatting-> Highlight Cells Rules-> Equal to...
-
-<img width="576" height="1361" alt="image" src="https://github.com/user-attachments/assets/8d9fbd78-ade3-4aaf-82b8-061c7f68ded7" />
